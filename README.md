@@ -83,6 +83,10 @@ print("Accuracy:",accuracy_score(y_test, y_pred))
 print("\nClassification Report:")
 print(classification_report(y_test, y_pred))
 
+conf_matrix = confusion_matrix(y_test, y_pred)
+print("\nConfusion Matrix:")
+print(conf_matrix)
+
 ```
 
 ## Output:
