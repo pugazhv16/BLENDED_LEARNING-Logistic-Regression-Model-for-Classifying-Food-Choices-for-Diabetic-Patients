@@ -92,6 +92,7 @@ print(classification_report(y_test, y_pred))
 
 <img width="502" height="236" alt="Screenshot 2026-03-16 180658" src="https://github.com/user-attachments/assets/5673a75c-a615-470e-9080-ed9b1f35221c" />
 
+<img width="1006" height="92" alt="554505435-29e62205-cf0b-4953-bf24-c5292c722cec" src="https://github.com/user-attachments/assets/de181f03-55aa-4703-bd4d-1e3c7733a731" />
 
 ## Result:
 Thus, the logistic regression model was successfully implemented to classify food items for diabetic patients based on nutritional information, and the model's performance was evaluated using various performance metrics such as accuracy, precision, and recall.
